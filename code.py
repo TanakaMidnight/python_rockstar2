@@ -1,1 +1,1 @@
-9c486e44-59d7-11ea-8944-acde48001122
+['FizzBuzz' if n % 15 == 0 else 'Fizz' if n % 3 == 0 else 'Buzz' if n % 5 == 0 else n for n in range(1,31)]
